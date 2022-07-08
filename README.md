@@ -26,6 +26,7 @@ After completing the analysis of the congressional election results data, I was 
     -Raymon Anthony Doane: received 3.1% of the vote with a total number of votes of (11,606)
 -The Overall winner of the election was: 
     -Diana DeGette who received 73.8% of the vote with a total number of votes of (272,892)
+    
 ![PyPoll_Challenge](https://user-images.githubusercontent.com/108022219/177700917-ff287665-24a5-44bf-978d-3d0552a038bf.png)
 
     
@@ -48,6 +49,7 @@ After completing the analysis of the congressional election results data, I was 
     -Jefferson received 10.5% of the vote with a total number of votes of (38,855)
 -The county with the highest turnout was: 
     -Denver who received 82.8% of the vote with a total number of votes of (306,055)
+    
 ![PyPoll_Challenge_County](https://user-images.githubusercontent.com/108022219/178023166-a467e1a8-1988-4ee0-8da9-5bc2473b158d.png)
 
     
