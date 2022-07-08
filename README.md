@@ -48,7 +48,8 @@ After completing the analysis of the congressional election results data, I was 
     -Jefferson received 10.5% of the vote with a total number of votes of (38,855)
 -The county with the highest turnout was: 
     -Denver who received 82.8% of the vote with a total number of votes of (306,055)
-    ![PyPoll_Challenge_County](https://user-images.githubusercontent.com/108022219/177700937-d38b89fd-506e-49b7-901e-d3aad4345543.png)
+![PyPoll_Challenge_County](https://user-images.githubusercontent.com/108022219/178023166-a467e1a8-1988-4ee0-8da9-5bc2473b158d.png)
+
     
  ## Election Audit Summary
  The data provided from this election can be used in many ways. In addition to the breakdowns already provided, the data can be analyzed in many other ways. 
